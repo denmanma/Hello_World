@@ -1,6 +1,6 @@
 # Hello_World
-    print("Hello World!")
-    =====================
+    echo "Hello World!"
+    ===================
  This is my "Hello World" project for IS1003. 
 
  _My name is Michael Denman, and here's a little bit about me. I am a former U.S. Air Force member with experience in aircraft maintenance and intelligence analysis._
